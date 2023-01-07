@@ -9,4 +9,6 @@ data/*
 logs/*
 logs_official/*
 .vscode
+__MACOSX/._logs_official
+__MACOSX/*
 feature_extractor/ckpts
