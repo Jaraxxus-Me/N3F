@@ -7,4 +7,6 @@
 *.dae
 data/*
 logs/*
+logs_official/*
+.vscode
 feature_extractor/ckpts
